@@ -14,4 +14,5 @@ La pandemia de 2020 demostró la necesidad de un cambio en los sistemas de gober
 Nuestra organización creará un ecosistema descentralizado y autónomo referente en Latinoamérica. ¡Únete a la creación de esta comunidad, donde impulsamos el emprendimiento tecnológico con sabor latino!
 
 EmpanaDAO Team
+
 ManuAlzuru, Diana Aguilar, Andrés Larez, Daniel Knobelsdorf, Joan Riera
